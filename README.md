@@ -4,9 +4,10 @@
 
 ![polaroid-photo-style](https://user-images.githubusercontent.com/69719643/200604038-f0f2f3ad-6e52-4b81-9e9f-eaad9a36d563.png)
 
-### Video
+### GIF
 
-<https://user-images.githubusercontent.com/69719643/200645314-82880fd9-7e9a-4a0c-88f5-c3f309708840.mp4>
+![polaroid photo video](https://user-images.githubusercontent.com/69719643/200753598-7fae06e9-60aa-4d11-aaf3-a56b0c3e06f6.gif)
+
 
 ### Find me on social media
 
